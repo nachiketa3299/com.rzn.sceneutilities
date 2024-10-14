@@ -1,0 +1,11 @@
+{
+	"name": "com.rzn.sceneutilities",
+	"version": "0.1.0",
+	"description": "Custom tools for scene managements made by RZN",
+	"displayName": "RZN.SceneUtilities",
+	"unity": "2022.3",
+	"author": {
+		"name": "RZN BRN",
+		"email": "nachiketa3299@gmail.com"
+	}
+}
